@@ -1,0 +1,1 @@
+An attack sent via email in which threat actors send messages pretending to be a trusted person or entity in order to gain information or infect computer systems and networks with malicious software.

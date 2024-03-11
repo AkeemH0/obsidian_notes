@@ -1,0 +1,1 @@
+A catalogue of assets that need to be protected

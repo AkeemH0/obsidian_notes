@@ -1,0 +1,1 @@
+A list of blocked potentially illegitimate or malicious sources e.g. IP blacklist would block malicious IP addresses

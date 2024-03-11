@@ -1,0 +1,1 @@
+Using several IP addresses (usually [[spoofed]]) to send spam messages & emails which often contains malware

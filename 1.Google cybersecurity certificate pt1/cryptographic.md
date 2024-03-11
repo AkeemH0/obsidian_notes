@@ -1,0 +1,1 @@
+Allows for secure communication under a given set of circumstances using [[cryptography]]

@@ -1,0 +1,1 @@
+Grants organizations the right to evaluate (audit) vendors to ensure they have proper security in place

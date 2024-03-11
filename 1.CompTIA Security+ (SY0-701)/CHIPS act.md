@@ -1,0 +1,1 @@
+$280 billion funding to boost research and manufacturing of [[semiconductor]]s within the US

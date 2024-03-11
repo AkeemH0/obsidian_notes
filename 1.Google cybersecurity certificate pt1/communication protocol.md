@@ -1,0 +1,1 @@
+A set of rules that define how data is transmitted and received between devices in a network.

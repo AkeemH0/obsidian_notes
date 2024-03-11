@@ -1,0 +1,8 @@
+- `nslookup` 
+ - (website name) [[DNS records]]
+ - `-type=` 
+  - `A` (website name) [[A record]]
+  - `AAAA` (website name) [[AAAA record]]
+  - `CNAME` (website name) [[CNAME record]]
+  - `TXT` (website name) [[TXT record]]
+  - `MX` (website name) [[MX record]]

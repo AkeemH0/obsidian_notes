@@ -1,0 +1,2 @@
+no one should be given so many privileges that they can misuse the system for their own benefits e.g. the pay check writer shouldn't also be the pay check signer.
+The division of tasks and responsibilities among different users to prevent giving a single user complete control over critical business functions

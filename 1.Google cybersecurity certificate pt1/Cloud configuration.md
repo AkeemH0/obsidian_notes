@@ -1,0 +1,3 @@
+The number of available cloud service adds complexity to the network.
+Each service must be carefully configured to meet security and compliance requirements.
+When companies migrate into the cloud they must ensure that every process moved into the cloud has been configured correctly otherwise the network could be open to compromise (misconfigured cloud services are a common source of cloud security issues).

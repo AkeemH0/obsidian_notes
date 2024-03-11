@@ -1,0 +1,2 @@
+A formal declaration that an organizations processes and controls are compliant
+E.G. software developers may have to attest to following secure coding procedures & developers will demonstrate acknowledgement throughout signing the compliance agreement

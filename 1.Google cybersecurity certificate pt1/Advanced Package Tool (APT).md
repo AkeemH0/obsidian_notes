@@ -1,0 +1,1 @@
+A tool with Debian-derived distributions. Ran from the [[Command Line Interface (CLI)]] to manage, search and install packages

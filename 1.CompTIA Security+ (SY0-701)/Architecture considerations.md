@@ -1,0 +1,12 @@
+- [ ] Availability: System uptime, measured in nines 
+- [ ] Resilience: maintaining availability/recovering quickly, measured in [[MTTR (Mean Time to Recover)]]
+- [ ] Cost: Installation cost, maintenance cost, replacement/repair costs, tax costs (operating or capital expense)
+- [ ] Responsiveness: Essential for interactive applications, speed is an important metric
+- [ ] Scalability: Elasticity, quickly increase/decrease capacity to optimize resource usage
+- [ ] Ease of deployment: consider parts required for deployment: web server, database, caching server, firewall, hardware resource, cloud budgets etc.
+- [ ] Risk transference: transfer risk to a third-party e.g. cybersecurity insurance, recovers financial losses but not reputational damage
+- [ ] Ease of recovery: How easily you can recover systems
+- [ ] Patch availability: Ensure you're running the latest version. Test patches and then deploy throughout [[Change management]].
+- [ ] Inability to patch: Embedded systems, legacy systems, optimal to implement additional security controls such as a firewall
+- [ ] Power: foundational for systems, Backup services ([[UPS (Uninterruptable Power Supply)]], [[Power Redundancy]], generators)
+- [ ] Compute: processing/processors (called compute engine in cloud)

@@ -1,0 +1,1 @@
+Programs that encourage freelance hackers to find and report vulnerabilities usually through material gain

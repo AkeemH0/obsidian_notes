@@ -1,0 +1,1 @@
+tricking someone into believing that they'll be rewarded in return for sharing access, information or money. E.G. the attacker may impersonate a loan officer at a bank and call customers offering them a lower interest rate on their credit card to gain access to their account details.

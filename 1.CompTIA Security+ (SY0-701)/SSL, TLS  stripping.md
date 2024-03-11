@@ -1,0 +1,5 @@
+ A [[On-path attack]] that involves forcefully downgrading cryptographic protocol e.g. (HTTPS to HTTP)
+ Allows for [[eavesdropping]]
+ The adversary proxies the modified content from a HTTPS server after forcing the user to use HTTP instead of HTTPS
+![[Pasted image 20240119104618.png]]
+Web visitor requests for page in http unknowingly using attacker as proxy, attacker passes request to web server but web server request to initiate a HTTPS connection instead, the attacker agrees and gains access to the HTTPS page instead but sends the user back in HTTP, the user then sends credentials through the webpage in the clear and the attacker uses this to login on the HTTPS and sends the resulting webpage back to the user. This means that the attacker is able to see all the web site visitor packets whilst the web server thinks its providing secure communications.

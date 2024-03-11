@@ -1,0 +1,2 @@
+Examining an organization's security controls, policies, and  procedures against a set of expectations (regulation compliance, established standards).
+Helps identify strengths, weaknesses and areas for improvement.

@@ -1,0 +1,1 @@
+contains a checksum that detects corruption of the IP header in transit, any corrupted packets are discarded

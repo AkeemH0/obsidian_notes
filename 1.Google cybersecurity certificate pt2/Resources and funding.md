@@ -1,0 +1,1 @@
+Tools, Skills and personnel at disposal of a given threat actor. Effects the scale, frequency and sophistication of attacks.

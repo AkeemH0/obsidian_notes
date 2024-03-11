@@ -1,0 +1,1 @@
+Hashes that correspond to to known malicious files. Often used to provide unique references to specific samples of malware or to files involved in an intrusion.

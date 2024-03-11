@@ -1,0 +1,1 @@
+Attacker obtains benefits on your behalf

@@ -1,0 +1,3 @@
+- A class of firewall that operates based on predefined rules and does not keep track of information from data packets; only acts based upon preconfigured rules set by the firewall administrator.
+- Doesn't store analysed information & doesn't discover suspicious trends. 
+- Less secure than stateful firewalls.

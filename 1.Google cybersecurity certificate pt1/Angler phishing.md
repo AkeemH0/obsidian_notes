@@ -1,0 +1,1 @@
+A technique where attackers impersonate customer service representatives on social media. Often targets angry customers on social media (as peoples tendency to complain has increased) & tricks angry customers into sharing sensitive information with the promise of fixing their problem.

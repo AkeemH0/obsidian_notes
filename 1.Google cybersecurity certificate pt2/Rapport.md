@@ -1,0 +1,1 @@
+A friendly relationship in which the people involved understand each other's ideas and communicate well with each other

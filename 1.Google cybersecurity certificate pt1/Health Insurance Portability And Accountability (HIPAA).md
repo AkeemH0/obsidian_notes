@@ -1,0 +1,2 @@
+A US law that required the protection of sensitive patient health information. Prohibits the disclosure of a persons medical information without their knowledge and consent.
+These regulations influence data handling at many organisations around the world even thought they were developed by specific nations.

@@ -1,0 +1,1 @@
+- Observable evidence created by malicious actors on a network e.g. information found in network protocols such as User-Agent strings.

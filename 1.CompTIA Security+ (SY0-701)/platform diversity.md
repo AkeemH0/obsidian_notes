@@ -1,0 +1,2 @@
+Using a variety of technology platforms/systems/frameworks/OS to avoid reliance on a single technology.
+Helps spread risk across multiple technologies & enhance flexibility, resilience and adaptability.

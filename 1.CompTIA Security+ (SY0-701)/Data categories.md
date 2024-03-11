@@ -1,0 +1,7 @@
+[[Regulated data]]
+[[Trade secrets]]
+[[Intellectual property]]
+[[Legal information]]
+[[Financial information]]
+[[Human-readable data]]
+[[Non-human readable data]]

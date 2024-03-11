@@ -1,0 +1,1 @@
+When two different inputs produce the same hash value

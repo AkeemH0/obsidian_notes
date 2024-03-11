@@ -1,0 +1,1 @@
+Ensuring an organizations IT strategy aligns with its business objectives

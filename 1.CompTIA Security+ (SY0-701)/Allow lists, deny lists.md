@@ -1,0 +1,1 @@
+Deny everything except/Accept everything except

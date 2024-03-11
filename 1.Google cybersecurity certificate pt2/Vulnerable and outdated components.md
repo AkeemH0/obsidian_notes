@@ -1,0 +1,2 @@
+Relates to application development; instead of coding everything from scratch most developers use open-source libraries to complete their projects faster and easier.
+Applications that use vulnerable components that have not been maintained are at greater risk of being exploited by threat actors.

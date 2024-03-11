@@ -1,0 +1,10 @@
+- [ ] [[Preparation (IR)]]
+- [ ] [[Detection (IR)]]
+- [ ] [[Analysis (IR)]]
+- [ ] [[Containment (IR)]]
+- [ ] [[Eradication (IR)]]
+- [ ] [[Recovery (IR)]]
+- [ ] [[Lessons learned (IR)]]
+
+[[IR (Incident response)]]
+[[Incident response playbook]]

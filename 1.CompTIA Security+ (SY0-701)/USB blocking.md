@@ -1,0 +1,3 @@
+- Restricting the use of [[USB (Universal Serial Bus)]] devices
+- Often implemented by disabling USB ports 
+- protects against [[USB baiting]], [[malware]], [[Data exfiltration]], [[Unauthorized access]] etc.

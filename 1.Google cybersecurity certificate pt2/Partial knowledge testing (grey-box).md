@@ -1,0 +1,1 @@
+when the tester has limited access and knowledge of an internal system- for example a customer service representative. Also known as Grey-box testing

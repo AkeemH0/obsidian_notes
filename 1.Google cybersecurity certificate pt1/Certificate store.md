@@ -1,0 +1,1 @@
+Saves certificate history and facts such as issued certificates and personal encryption keys

@@ -1,0 +1,2 @@
+refers to the analysis of information to produce knowledge or insights that can be used to support decision-making.
+[[intelligence]] is derived from information through the process of analysis, interpretation and integration.

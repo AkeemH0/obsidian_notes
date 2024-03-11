@@ -1,0 +1,1 @@
+A device/location at the boundary between internal and external networks

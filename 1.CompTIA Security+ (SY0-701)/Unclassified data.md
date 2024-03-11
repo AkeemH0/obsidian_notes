@@ -1,0 +1,1 @@
+Data that can be released to the public under the Freedom of Information Act

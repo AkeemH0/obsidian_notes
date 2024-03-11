@@ -1,0 +1,1 @@
+The rate at which data packets are received or downloaded

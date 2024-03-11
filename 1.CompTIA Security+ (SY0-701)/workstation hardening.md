@@ -1,0 +1,3 @@
+- Constantly monitor and update workstations (OS, applications, firmware, antivirus)
+- Use a policy management system e.g.[[Active Directory]] group policy
+- Remove unnecessary software (reduces attack surface)

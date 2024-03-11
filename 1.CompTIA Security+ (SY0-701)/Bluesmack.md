@@ -1,0 +1,1 @@
+[[DoS (Denial of service)]] targeting Bluetooth devices 

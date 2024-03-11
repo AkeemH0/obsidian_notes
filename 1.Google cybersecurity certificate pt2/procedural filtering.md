@@ -1,0 +1,1 @@
+enables you to further filter information pertaining to an asset, including by: event type, log source, network connection status & Top Level Domain (TLD)

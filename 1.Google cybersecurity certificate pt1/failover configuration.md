@@ -1,0 +1,1 @@
+A setup in which the operations or responsibilities of a failed system or component are automatically transferred to a backup or secondary system.

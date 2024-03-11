@@ -1,0 +1,1 @@
+data/information/attributes in a directory (name/phone number/email/user/system/resource)

@@ -1,0 +1,2 @@
+Manipulating a situation or creating a distraction to steal valuable items or information
+e.g. diverting internet traffic to fake websites (e.g.[[DNS Spoofing attack]]) or distracting someone as your accomplice commits theft

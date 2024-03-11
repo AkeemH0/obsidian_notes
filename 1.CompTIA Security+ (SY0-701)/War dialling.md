@@ -1,0 +1,1 @@
+Systematically dialling a range of telephone numbers to identify computer systems, networks or devices that have modems or other telecommunication interfaces

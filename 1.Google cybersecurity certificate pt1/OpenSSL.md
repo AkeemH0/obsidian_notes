@@ -1,0 +1,3 @@
+- an open-source command line tool that can be used to generate public and private keys.
+- commonly used by computers to verify digital certificates that are exchanged as part of [[PKI (public key infrastructure)]]
+- Older versions (<~2014) have a vulnerability known as the [[Heartbleed bug]]

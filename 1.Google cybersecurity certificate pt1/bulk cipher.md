@@ -1,0 +1,1 @@
+Another name for [[Stream Cipher]]

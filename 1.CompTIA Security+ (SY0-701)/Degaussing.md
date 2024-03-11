@@ -1,0 +1,1 @@
+Applying a strong magnetic field to the hard disk platter to remove the magnetism from it thus making the data inaccessible

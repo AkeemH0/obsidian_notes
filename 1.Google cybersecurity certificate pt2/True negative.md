@@ -1,0 +1,1 @@
+a state where there is no detection of malicious activity since malicious activity doesn't exist so no alert is triggered.

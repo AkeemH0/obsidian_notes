@@ -1,0 +1,13 @@
+- Combination of video capture from multiple cameras
+- Motion detection
+- Night vision
+- remote access
+- Object detection (Facial recognition/Optical Character Recognition (OCR))
+- Footage funnelled to singular storage/viewing point
+- Can replace physical guards
+- Allows for real-time surveillance and the capability to review recorded footage
+- Can be an Indoor or Outdoor model (outdoor withstands elements but more expensive)
+- Can be wired or wireless 
+- Wired can be cut 
+- Wireless can be jammed with frequencies
+- [[PTZ (Pan-Tilt-Zoom)]]

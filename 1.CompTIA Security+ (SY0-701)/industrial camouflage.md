@@ -1,0 +1,2 @@
+Concealing or disguising industrial infrastructure, equipment or facilities to blend in the with surrounding environment.
+Makes critical infrastructure less conspicuous and less susceptible to potential threats

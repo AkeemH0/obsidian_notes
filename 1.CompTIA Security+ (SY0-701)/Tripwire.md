@@ -1,0 +1,1 @@
+A Linux [[FIM (File Integrity Monitoring)]]  application that scans all critical OS files for changes/modifications & replaces them with the original version

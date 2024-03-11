@@ -1,0 +1,2 @@
+- Manage financial operations
+- Costs of tools and strategies 

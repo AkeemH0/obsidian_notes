@@ -1,0 +1,1 @@
+collaborative tests that focus on improving the security posture of the organization by combining elements of red and blue team exercises

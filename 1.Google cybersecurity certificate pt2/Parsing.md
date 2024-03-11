@@ -1,0 +1,1 @@
+The process of converting data into a more readable format

@@ -1,0 +1,1 @@
+The process of removing any scripts or components that might be hazardous from user-generated HTMLs

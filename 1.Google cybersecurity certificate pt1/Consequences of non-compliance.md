@@ -1,0 +1,5 @@
+- [[Fines]]
+- [[Sanctions]]
+- [[Reputational damage]]
+- [[Loss of license]]
+- [[Contractual impacts]]

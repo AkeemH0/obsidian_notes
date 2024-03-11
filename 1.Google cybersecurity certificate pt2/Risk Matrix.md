@@ -1,0 +1,1 @@
+Similar to a [[Risk Heat Map]] but without the colours (numbers instead)

@@ -1,0 +1,1 @@
+A circuit that uses electrical power to increase the amplitude of an incoming signal voltage or current signal and output this higher amplitude version at its output terminal

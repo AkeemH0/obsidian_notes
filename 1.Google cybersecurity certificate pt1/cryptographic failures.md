@@ -1,0 +1,1 @@
+When organizations fail to encrypt things like PII & SPII e.g. if a web application uses a weak hashing algorithm like [[MD5 (Message Digest 5)]]. Out of compliance with [[GDPR (General Data Protection Regulation)]] as organizations must protect sensitive data with effective encryption methods

@@ -1,0 +1,1 @@
+Attackers can spoof MAC addresses to mimic authorized devices on a network, potentially gaining unauthorized access

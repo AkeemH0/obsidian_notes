@@ -1,0 +1,1 @@
+The optimal security state of an application should also be its default state for users; it should take extra work to make the application insecure

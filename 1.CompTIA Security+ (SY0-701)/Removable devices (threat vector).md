@@ -1,0 +1,1 @@
+[[USB baiting]], social engineering in order to get direct access to systems to plug in devices, useful for infecting [[Air gap]]ped networks & Data exfiltration. malicious devices e.g. mouses ,keyboards or chargers which have embedded malware.

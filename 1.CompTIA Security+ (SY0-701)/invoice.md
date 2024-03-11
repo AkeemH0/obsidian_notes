@@ -1,0 +1,1 @@
+Used to pay for goods that are received before paying

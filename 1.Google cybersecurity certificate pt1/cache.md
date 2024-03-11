@@ -1,0 +1,1 @@
+Memory that stores frequently used information

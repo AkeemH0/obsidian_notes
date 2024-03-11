@@ -1,0 +1,1 @@
+An incident type that occurs when an employee of an organization violates the organization's acceptable use policies

@@ -1,0 +1,3 @@
+occurs when an attacker is unable to directly see the results of their attack. Instead they can interpret the results by analysing the behaviour of the system.
+
+e.g. an attacker might perform a SQL injection attack on the login form of a website that causes the system to respond with an error message. Although sensitive data isn't returned the attacker can infer the databases structure based on the error & use this information to craft attacks that will give them access to sensitive data or allow them to take control of the system

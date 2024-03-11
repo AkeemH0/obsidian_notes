@@ -1,0 +1,37 @@
+N/A [[Transmission control protocol (TCP)]]
+N/A [[UDP (User Datagram Protocol)]]
+- Port 7 ICMP [[echo protocol]] (for TCP/UDP)
+- Port 20/21 TCP- [[FTP (File Transfer Protocol)]] (data/control)
+- Port 22 TCP- [[SSH (Secure Shell)]] & [[SFTP (SSH File Transfer Protocol)]]
+- Port 23 TCP - [[Telnet]]
+- Port 25 TCP- [[SMTP (Simple Mail Transfer Protocol)]] for unencrypted email
+- Port 49 TCP/UDP - [[TACACS+ (Terminal Access Controller Access Control System Plus)]] & [[Terminal Access Controller Access Control System (TACACS)]] 
+- Port 53 TCP/UDP - [[DNS (Domain Name System)]] 
+- port 67/68 UDP -[[DHCP (Dynamic Host Configuration Protocol)]] (server/client)
+- Port 69 UDP- [[TFTP (Trivial File Transfer Protocol)]]
+- Port 80 TCP- [[HTTP (Hypertext Transfer Protocol)]]
+- Port 88 TCP/UDP - [[Kerberos]]
+- Port 110 TCP- [[POP3 (Post Office Protocol version 3)]] for unencrypted email
+- Port 123 UDP - [[NTP (Network Time protocol)]]
+- Port 137/138/139 TCP/UDP - [[NetBIOS (Network Basic Input Output System)]]
+- Port 143 TCP- [[IMAP (Internet Message Access protocol)]] for unencrypted email
+- Port 161/162 UDP- [[SNMP (Simple Network Management Protocol)]]
+- Port 389 TCP- [[LDAP (Lightweight Directory Access Protocol)]]
+- Port 443 TCP-  [[HTTPS (Hypertext Transfer Protocol Secure)]]/[[SSTP (Secure Socket Tunneling Protocol)]]
+- Port 445 TCP - [[SMB (Server Message Block)]] [[CIFS (Common Internet File System)]]
+- Port 514 UDP- [[Syslog]]
+- Port 587 TCP [[STARTTLS]]
+- Port 636 TCP-[[LDAPS (Lightweight Directory Access Protocol Secure)]]
+- Port 989/990 TCP/UDP- [[FTPS (File Transfer Protocol Secure)]] (data/control) 
+- Port 993 TCP - [[IMAPS (Internet Message Access Protocol Secure)]] 
+- Port 995 TCP/UDP- [[POP3S (Post Office Protocol version 3 Secure)]] 
+- Port 1433 TCP/UDP- [[SQL Server (Structured Query Language Server)]]
+- Port 1521 TCP- [[SQLnet]]
+- Port 1701 UDP - [[L2TP (Layer 2 Tunneling Protocol)]]
+- Port 1723 TCP- [[PPTP (Point-to-Point Tunneling Protocol)]]
+- Port 1812/1813 TCP/UDP- [[RADIUS (Remote Access Dial-in User Service)]]
+- Port 3306 TCP -  [[MySQL]]
+- Port 3389 TCP/UDP- [[RDP (Remote Desktop Protocol)]]
+- Port 3868 TCP - [[Diameter]]
+- Port 5004 UDP- [[SRTP (Secure Real-Time Protocol)]]
+- Port 5060/5061- [[SIP (Session Initiation Protocol)]]

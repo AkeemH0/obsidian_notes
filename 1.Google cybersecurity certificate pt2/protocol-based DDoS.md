@@ -1,0 +1,1 @@
+These exploit vulnerabilities in network protocols to exhaust resources on the target. Examples include SYN/ACK floods and DNS amplification attacks.

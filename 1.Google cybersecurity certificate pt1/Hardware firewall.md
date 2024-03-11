@@ -1,0 +1,2 @@
+  - Physical device that inspects every data packet before its allowed to enter/exit the network
+  - ![[Pasted image 20240207203744.png]]

@@ -1,0 +1,1 @@
+Filters spam email by verifying whether a senders address was forged to reduce phishing attacks that impersonate people in an organization

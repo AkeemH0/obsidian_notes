@@ -1,0 +1,1 @@
+a partition/section of a drive is encrypted

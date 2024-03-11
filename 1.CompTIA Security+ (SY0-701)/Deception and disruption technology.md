@@ -1,0 +1,10 @@
+Designed to mislead, confuse & divert attackers from critical assets while simultaneously detecting and neutralizing threats 
+- [ ] [[Honeypot]]
+- [ ] [[Honeynet]]
+- [ ] [[Honeyfile]]
+- [ ] [[Honeytoken]]
+- [[Bogus DNS entries]]
+- [[decoy directories]]
+- [[dynamic page generation]]
+- [[port triggering]]
+-  [[fake telemetry data]]

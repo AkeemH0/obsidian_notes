@@ -1,0 +1,1 @@
+ You have to make a change or update to one application or service before you're able to install/update another application or service. service/application A depends on service/application B. E.G. a service not starting without other active services, an application requiring a specific library version.

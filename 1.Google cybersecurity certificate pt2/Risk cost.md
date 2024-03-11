@@ -1,0 +1,1 @@
+Financial impact of a risk

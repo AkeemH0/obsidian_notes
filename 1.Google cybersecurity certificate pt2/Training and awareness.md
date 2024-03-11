@@ -1,0 +1,1 @@
+Regular training on best practices & procedures to enhance security awareness so that employees contribute to the protection of the organizations sensitive data

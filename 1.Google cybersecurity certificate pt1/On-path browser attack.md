@@ -1,0 +1,1 @@
+[[MITM (man-in-the-middle) attack]] on same device as victim (Virus/trojan) uses proxy on same device to pass network information through towards a legitimate webpage so information such as credentials can be picked up as they are read before they are encrypted and sent off

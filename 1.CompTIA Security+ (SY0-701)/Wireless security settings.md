@@ -1,0 +1,12 @@
+- Change default credentials
+- Authenticate users: Login Credentials/ [[MFA (Multi-factor authentication)]]
+- Encrypt data: [[WEP (Wired Equivalent Privacy)]],[[WPA (Wi-Fi Protected Access)]],[[WPA2]],[[WPA3]]
+- Verify the integrity of all communication [[Message Integrity]]
+- [ ] [[WPA3]]
+- [ ] [[Wireless authentication methods]]
+- [ ] [[Wireless security modes]]
+- [ ] [[Authenticating people]]
+- [ ] [[RADIUS (Remote Access Dial-in User Service)]]
+- [ ] [[IEEE 802.1X]]
+- [ ] [[EAP (Extensible Authentication Protocol)]]
+- [ ] WPA3 uses: [[SAE (Simultaneous Authentication of Equals)]]

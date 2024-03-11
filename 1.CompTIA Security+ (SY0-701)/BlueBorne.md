@@ -1,0 +1,1 @@
+Vulnerabilities in Bluetooth technology that can allow an attacker to take over devices or spread malware

@@ -1,0 +1,1 @@
+Displays a high level summary of information related to the organizations data ingestion alerting and event activity over time. Security professionals use this dashboard to access a timeline of security events such as a spike in failed login attempts to identify threat trends across log sources, devices, IP addresses and physical locations.

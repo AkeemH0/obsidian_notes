@@ -1,0 +1,3 @@
+- A **graphical element** that appears upon **application launch**
+- Provides a **visual indication** that the **application** is **loading/initialising**.
+- Typically contains a **logo/name** & **animation/message**

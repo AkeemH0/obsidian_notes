@@ -1,0 +1,1 @@
+Security controls should be kept simple so that they are easier to manage, if controls are too complex it becomes harder for people to work collaboratively 

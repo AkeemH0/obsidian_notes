@@ -1,0 +1,1 @@
+Data consisting of a number that does not include a decimal point

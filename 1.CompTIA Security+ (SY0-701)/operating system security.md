@@ -1,0 +1,4 @@
+- [ ] [[group policy (application)]]
+- [ ] [[Active Directory]]
+- [ ] [[GPO (Group Policy Object)]]
+- [ ] [[SE Linux (Security-enhanced Linux)]]

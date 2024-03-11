@@ -1,0 +1,1 @@
+A body that checks the validity of an electronic certificate by referring to a list of invalid certificates and confirms whether a sufficiently trustworthy [[CA (Certificate Authority)]] issued the electronic certificate.

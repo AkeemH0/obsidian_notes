@@ -1,0 +1,1 @@
+A virus that hides itself from antivirus by encrypting its contents

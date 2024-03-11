@@ -1,0 +1,6 @@
+ - [[FDE (Full-disk Encryption)]]
+ - [[Partition encryption]] 
+ - [[File Encryption]] 
+ - [[Volume encryption]] 
+ - [[Database encryption]] 
+ - [[Record Encryption]] 

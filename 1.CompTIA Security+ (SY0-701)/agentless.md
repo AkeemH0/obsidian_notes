@@ -1,0 +1,7 @@
+- agentless monitoring tools collect data from devices without requiring the installation of specific software on each endpoint device (done throughout protocols like [[SNMP (Simple Network Management Protocol)]])
+- No software required on each device (e.g. web based applications) (software is on central server/network instead)
+- Compromised central server could impact the monitoring process and expose data stored on the central server
+- less intrusive than an agent
+- less impact on system performance than an agent
+- rely on network connections to be able to collect information from devices
+- can scan for vulnerabilities without direct system access

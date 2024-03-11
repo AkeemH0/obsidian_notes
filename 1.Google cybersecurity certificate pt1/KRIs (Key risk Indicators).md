@@ -1,0 +1,2 @@
+Predictive metrics used to signal rising risk levels in different parts of the organization 
+Provide predicative impact and likelihood of risks allowing organizations to take proactive management and prevent escalation

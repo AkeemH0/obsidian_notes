@@ -1,0 +1,1 @@
+Prevents the indefinite forwarding of packets. Contains a counter set by the source which decrements as the packet passes through a router, when the TTL counter reaches zero the current router discards the packet and returns an [[ICMP (Internet Control Message protocol)]] Time Exceeded error message to the sender.

@@ -1,0 +1,4 @@
+- A testing environment that allows you to execute software or programs separate from your network.
+- Used for testing patches, identifying & addressing bugs, detecting cyber security vulnerabilities, evaluate suspicious software, evaluate files containing malicious code and to simulate attack scenarios
+- Sandboxes can be stand-alone physical computers that are not connected to a network however its often more time and cost effective to use software or cloud-based [[VM (Virtual machine)]] as a sandbox environment.
+- Some malware authors know how to write code to detect if the malware is executed in a VM or sandbox environment so authors can program their malware to behave as harmless software when run inside these types of testing environments or even to spread from these testing environments. This is known as sandbox evasion or VM detection.

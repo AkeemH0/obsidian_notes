@@ -1,0 +1,2 @@
+long-term power backup: requires power source e.g. fuel, sunlight, hydropower etc
+Generators usually have start-up processes therefore organizations utilize both generators & [[UPS (Uninterruptable Power Supply)]] to suffice for this start-up time & maintain better levels of availability.

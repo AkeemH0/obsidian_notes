@@ -1,0 +1,1 @@
+A tool developed and owned by a person or company that typically charges for usage. Source code cannot be accessed. There are usually regular updates and a helpline/manual.

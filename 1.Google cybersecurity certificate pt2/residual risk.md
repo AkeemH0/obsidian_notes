@@ -1,0 +1,1 @@
+Likelihood and impact of a risk after implementing mitigation, transference or acceptance measures to an initial risk

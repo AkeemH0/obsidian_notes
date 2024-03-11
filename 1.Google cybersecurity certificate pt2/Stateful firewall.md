@@ -1,0 +1,4 @@
+- A class of firewall that keeps track of information passing through it and proactively filters out threats.
+- Stores analysed information & discovers suspicious trends. 
+- More secure than stateless firewalls.
+- Stateful firewalls only require a rule in one direction unlike [[Stateless firewall]]s since stateful firewalls utilize a state table to track connections so it can match return traffic to an existing session.

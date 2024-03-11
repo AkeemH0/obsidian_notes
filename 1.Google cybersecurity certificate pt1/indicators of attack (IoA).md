@@ -1,0 +1,3 @@
+- The series of observed events that indicate a real-time incident.
+- focuses on identifying the behavioural evidence of an attacker (methods & intentions)
+- identify the why and how of an attack

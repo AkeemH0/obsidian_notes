@@ -1,0 +1,1 @@
+the type of access granted for a file or directory

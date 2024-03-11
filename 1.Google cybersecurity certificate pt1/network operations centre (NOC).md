@@ -1,0 +1,2 @@
+An organizational unit that monitors the performance of a network and responds to any network disruption such as a network outage.
+responsible for maintaining network performance, availability and uptime

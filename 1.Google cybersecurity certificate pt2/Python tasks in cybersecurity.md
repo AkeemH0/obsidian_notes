@@ -1,0 +1,6 @@
+- Log analysis
+- Malware analysis
+- Access control list management
+- Intrusion detection
+- Compliance checks
+- Network scanning

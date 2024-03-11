@@ -1,0 +1,6 @@
+A wired networking technology for connecting devices such as computer, servers, printers and routers, within a [[LAN (Local Area Network)]]. Provides a reliable and standardized means of transmitting data packets over a physical network infrastructure, typically using copper or fibre-optic cables
+- Ethernet operates on the IEEE 802.3 standards which define the specifications for physical and data link layers of the network protocol. These standards encompass a variety of ethernet technologies including ethernet over twisted-pair cables, fibre optics and more.
+- Ethernet uses [[Protocol]]s and specifications which define how data is framed, addresses and transmitted over the network
+- Ethernet LANs often use Ethernet switches to manage data traffic efficiently. [[Switch]]es use [[MAC (Media Access Control) address]]es to determine how to forward data packets to the appropriate destination devices within the LAN.
+- Ethernet is known for its speed and reliability, with various versions offering different data transfer rates. Common Ethernet standards include 10Mbps, 100Mbps, 1Gbps, 10Gbps 
+- Ethernet networks can be used for both wired and wireless connections. E.G. [[Power over Ethernet (PoE)]] can also be used to provide power to connected devices such as IP cameras and phones over the same ethernet cables.

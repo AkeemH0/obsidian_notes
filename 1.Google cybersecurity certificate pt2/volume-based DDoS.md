@@ -1,0 +1,1 @@
+These flood the target with an overwhelming amount of traffic. Examples include UDP floods and ICMP floods.

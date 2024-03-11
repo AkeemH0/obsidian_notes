@@ -1,0 +1,1 @@
+ technical skill, complexity of tools and techniques, ability to evade detection and countermeasures. Rated from low to high. Low are often referred to as [[script kiddie]]. High level use custom made malware, scripts, zero day exploits & use advanced evasion techniques. Includes: [[Nation-State actors]] & [[APT (Advanced persistent threat)]].

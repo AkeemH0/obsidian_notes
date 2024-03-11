@@ -1,0 +1,1 @@
+A chronological record of all user activities used to trace changes, unauthorized access or anomalies back to a specific user or point in time

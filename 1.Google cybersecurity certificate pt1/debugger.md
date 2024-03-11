@@ -1,0 +1,2 @@
+A software tool that helps to locate the source of an error and assess its causes, with the help of [[breakpoints]]
+Some debuggers allow you to check the values stored in variables as they change throughout your code, which is helpful for identifying [[Logic Errors]]

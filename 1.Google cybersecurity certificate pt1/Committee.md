@@ -1,0 +1,1 @@
+Subgroup of a [[Board]] of directors each with a specific focus to an area

@@ -1,0 +1,1 @@
+A set of extensions to DNS that adds an additional layer of security by digitally signing DNS data, helping to prevent DNS-related attacks

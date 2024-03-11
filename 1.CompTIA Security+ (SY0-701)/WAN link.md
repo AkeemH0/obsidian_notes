@@ -1,0 +1,1 @@
+A communication circuit that joins several LANs into a WAN

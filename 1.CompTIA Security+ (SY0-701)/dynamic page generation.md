@@ -1,0 +1,1 @@
+presents ever-changing content to webcrawlers to confuse and slow down the threat actor

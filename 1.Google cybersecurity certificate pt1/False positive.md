@@ -1,0 +1,1 @@
+Incorrectly detects the presence of a threat. When an IDS identifies an activity as malicious but it isn't. False positives are an inconvenience because they spend time and resources investigating an illegitimate alert.

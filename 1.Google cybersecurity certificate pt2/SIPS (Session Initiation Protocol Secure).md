@@ -1,0 +1,1 @@
+[[SIP (Session Initiation Protocol)]] that uses [[TLS (Transport Layer Security)]] encryption

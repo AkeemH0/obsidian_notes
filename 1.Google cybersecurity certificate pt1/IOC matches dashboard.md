@@ -1,0 +1,1 @@
+indicates the top threats, risks and vulnerabilities to the organization. used to observe domain names, IP addresses and device [[IoC (indicators of compromise)]] over time in order to identify trends.

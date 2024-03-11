@@ -1,0 +1,1 @@
+components drawn in terms of exact locations

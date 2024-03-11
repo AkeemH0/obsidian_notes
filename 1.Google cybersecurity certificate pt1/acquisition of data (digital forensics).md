@@ -1,0 +1,5 @@
+- forensic tools (e.g. [[exiftool]], disk reader)
+- Memory (Disk, ram, firmware configurations, OS files, code)
+- network logs, firewall logs, server logs
+- if the incident took place involves VM data you can take a [[snapshots]] of the VM 
+- look for artifacts: Recycling bin data, system logs, browser bookmarks, saved logins, etc.

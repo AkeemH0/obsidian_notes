@@ -1,0 +1,1 @@
+Files containing malware, often replicate pre-existing applications/software e.g. fake game file, Macro (commonly in Microsoft Office documents, attackers may write malicious macros)

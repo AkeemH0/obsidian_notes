@@ -1,0 +1,1 @@
+Used with Red Hat-derived distributions. run from the [[Command Line Interface (CLI)]] to manage ,search and install packages. Works with .rpm files

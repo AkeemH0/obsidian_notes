@@ -1,0 +1,1 @@
+Initial/requesting device stores MAC address & correlating IP within its cache

@@ -1,0 +1,1 @@
+[[symmetric encryption]], [[block cipher]], 32 to 448 bit encryption key, max of 64-bit blocks, 

@@ -1,0 +1,1 @@
+An attack that involves taking over an organizational email account to manipulate other entities into carrying out unknowingly malicious actions (e.g. unauthorized fund transfers, redirect payments or steal sensitive information)

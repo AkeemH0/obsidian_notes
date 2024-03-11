@@ -1,0 +1,1 @@
+Cookies with a specific expiration date, remaining on the user's device until that date or until manually deleted

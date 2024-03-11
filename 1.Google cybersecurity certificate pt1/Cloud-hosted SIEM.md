@@ -1,0 +1,1 @@
+Accessible through internet, generally cheaper than [[Self-hosted SIEM]] SIEM as tool doesn't need to be created or maintained. Cloud computing takes advantage of availability, flexibility and scalability.

@@ -1,0 +1,3 @@
+- Change weak defaults/configuration
+- Deploy available updates quickly
+- [[Network segmentation]],put [[IoT (Internet of Things)]] devices on their own [[VLAN (Virtual Local Area Network)]]

@@ -1,0 +1,1 @@
+The use of multiple servers in a [[load balance]] or [[failover configuration]] so that if ones is overloaded or fails, the other servers can take over the load to continue supporting end users

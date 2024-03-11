@@ -1,0 +1,1 @@
+end-user entity data/information/attributes (user accounts, computer accounts, printer entries)

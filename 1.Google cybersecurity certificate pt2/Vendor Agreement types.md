@@ -1,0 +1,8 @@
+[[Basic contract]]
+[[SLA (Service-level Agreement)]]
+[[MOA (Memorandum of Agreement)]]
+[[MOU (Memorandum of Understanding)]]
+[[MSA (Master Service Agreement)]]
+[[SOW (Statement of Work)]]
+[[NDA (non-disclosure agreement)]]
+[[BPA (Business Partners Agreement)]]

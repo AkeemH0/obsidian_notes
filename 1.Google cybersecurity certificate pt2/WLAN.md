@@ -1,0 +1,1 @@
+Wireless [[LAN (Local Area Network)]] via [[Wi-Fi (Wireless Fidelity)]]

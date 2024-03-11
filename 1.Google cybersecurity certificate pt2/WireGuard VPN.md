@@ -1,0 +1,4 @@
+- High-speed VPN protocol with advanced encryption, to protect users when they are accessing the internet. Designed for simple setup and maintenance.
+- Download speed is enhanced since it uses fewer lines of code than [[IPsec (Internet Protocol Security)VPN]]. 
+- WireGuard is also open source making it easier for users to deploy and debug.
+- Useful for processes that require faster download speeds such as streaming video content or downloading larger files.

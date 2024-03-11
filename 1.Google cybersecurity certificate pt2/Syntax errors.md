@@ -1,0 +1,2 @@
+An error that involves invalid usage of a programming language e.g. forgetting punctuation such as a closing bracket or a colon
+`"IndentationError"` is a subclass of `"SyntaxError"` that occurs when the indentation used with a line of code isn't syntactically correct.

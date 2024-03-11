@@ -1,0 +1,2 @@
+violate ethical standards but are not considered malicious E.G. hacktivist is a person who might user their skills to achieve a political goal.
+The intention of these types of threat actors is often to expose security risks that should be addressed before a malicious hacker finds them.

@@ -1,0 +1,1 @@
+For DNS servers, enabling DNS Response Rate Limiting can help limit the rate at which a DNS server responds to queries from a specific client, reducing the effectiveness of DNS amplification attacks.

@@ -1,0 +1,1 @@
+a common language for describing and communicating information about cyber threat activity. Helps cybersecurity professionals analyse and share information more efficiently.

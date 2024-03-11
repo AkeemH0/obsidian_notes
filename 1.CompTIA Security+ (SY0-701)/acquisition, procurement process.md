@@ -1,0 +1,2 @@
+Formal multi-stage process for purchasing goods from third parties
+starts with user request -> analysis of budget -> formal approvals -> negotiation with supplier (price, terms & conditions) -> purchase, [[invoice]] and payment

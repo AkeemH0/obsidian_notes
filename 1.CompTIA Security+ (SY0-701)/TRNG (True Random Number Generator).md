@@ -1,0 +1,1 @@
+a RNG that relies on environmental factors that are inherently unpredictable for generation e.g. electronic noise, radioactive decay, atmospheric noise & quantum phenomena

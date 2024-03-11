@@ -1,0 +1,1 @@
+components aren't drawn in terms of exact locations. Focuses on data flow between devices.

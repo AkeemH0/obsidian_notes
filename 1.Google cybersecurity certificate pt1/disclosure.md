@@ -1,0 +1,1 @@
+The release/exposure of information often unintentionally or without proper authorization.

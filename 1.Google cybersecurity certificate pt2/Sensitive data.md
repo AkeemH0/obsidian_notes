@@ -1,0 +1,3 @@
+Information that must be protected fed from everyone who doesn't have authorized access.
+Unauthorized access to sensitive data can cause significant damage to an organizations finances and reputation.
+Has minimal impact if released e.g. organizations financial data banking account numbers, usernames and passwords, national insurance numbers, passwords, passport numbers and medical information, intellectual property, PII, PHI

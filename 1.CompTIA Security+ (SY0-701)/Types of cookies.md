@@ -1,0 +1,4 @@
+- [[Persistent cookies]]
+- [[session cookie]]
+- [[First-Party cookies]]
+- [[Third-Party cookies]]

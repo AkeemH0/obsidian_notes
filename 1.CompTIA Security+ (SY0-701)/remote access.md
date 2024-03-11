@@ -1,0 +1,3 @@
+- Connecting to a network/system in a different location.
+- Enables flexibility in work location.
+- Encryption & authentication are crucial for protecting data during remote access.

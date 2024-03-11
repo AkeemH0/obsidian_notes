@@ -1,0 +1,1 @@
+An authentication mechanism of [[GCM (Galois Counter mode)]] that serves as a [[MIC (message integrity check)]] for encrypted data 

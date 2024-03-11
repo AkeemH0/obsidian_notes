@@ -1,0 +1,1 @@
+additional software that is packaged with other applications

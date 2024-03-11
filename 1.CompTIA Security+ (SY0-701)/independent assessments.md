@@ -1,0 +1,2 @@
+Assessments conducted by 3rd party entities that have no stake in the organizations or vendors operations.
+Bring a different perspective for how to improve security as they assess lots of organizations

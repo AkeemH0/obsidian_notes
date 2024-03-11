@@ -1,0 +1,4 @@
+- On-premise or cloud-based software for generating, distributing, logging and managing keys for devices and applications in a centralized manager
+- Often provided as 3rd party software
+- Can automatically change keys on regular intervals 
+- ![[Pasted image 20240114160614.png]]

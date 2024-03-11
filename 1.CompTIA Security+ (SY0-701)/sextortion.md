@@ -1,0 +1,1 @@
+A persons lewd photos are stolen & threatened to be released publicly unless a payment is made

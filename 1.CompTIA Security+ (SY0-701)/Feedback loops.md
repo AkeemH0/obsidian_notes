@@ -1,0 +1,1 @@
+A two-way communication channel where both the organization and the vendor share feedback

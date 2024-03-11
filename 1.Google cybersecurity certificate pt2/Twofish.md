@@ -1,0 +1,1 @@
+[[symmetric encryption]], [[block cipher]] 128-bit blocks, 128-bit/192-bit/256-bit encryption keys

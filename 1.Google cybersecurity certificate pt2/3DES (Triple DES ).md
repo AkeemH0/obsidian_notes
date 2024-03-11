@@ -1,0 +1,5 @@
+  - Is a [[symmetric encryption]] [[block cipher]] since it converts plaintext into [[ciphertext]] in ''blocks''.
+  - Derived from Data Encryption Standard (DES) a symmetric encryption algorithm that generated 3 56 bit keys (padded to 64-[[bit]]) thus Triple DES uses 192 bit keys  
+  - Uses three different symmetric keys to encrypt, decrypt (scrambles since a different key is used), encrypt
+  - Triple DES has limitations on the amount of data that can be encrypted so many organizations are moving away from using it however Triple DES is likely to remain in use for backwards compatibility purposes
+  - DES & Triple-DES are considered insecure and shouldn't be used

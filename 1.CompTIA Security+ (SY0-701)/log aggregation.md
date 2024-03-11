@@ -1,0 +1,2 @@
+ [[log]] aggregation: using [[SIEM (Security information and event management)]] for centralized reporting. 
+ Allows for: correlation between system/network/device activity, efficient analysis, trouble shooting and detection of security incidents

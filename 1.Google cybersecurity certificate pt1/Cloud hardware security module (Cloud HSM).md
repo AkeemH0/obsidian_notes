@@ -1,0 +1,1 @@
+A computing device that provides secure storage for cryptographic keys and processes [[cryptographic]] operations, such as encryption and decryption

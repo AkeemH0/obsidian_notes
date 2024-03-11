@@ -1,0 +1,1 @@
+encrypt individual files e.g. windows [[EFS (Encrypted File System)]]

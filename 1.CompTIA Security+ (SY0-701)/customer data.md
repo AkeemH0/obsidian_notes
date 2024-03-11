@@ -1,0 +1,1 @@
+ information that a customer generates, shares or uploads via a service

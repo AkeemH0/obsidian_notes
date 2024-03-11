@@ -1,0 +1,3 @@
+- Financial and managerial decisions
+- Report to shareholders
+- Manage operations

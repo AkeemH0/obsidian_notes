@@ -1,0 +1,2 @@
+[[brute force attack]] to get a hash collision & using the collisions input message as a password
+The probability that two distinct inputs passed through a hashing function collide is very high due to the birthday paradox (high probability of group of people having people with same birthday)

@@ -1,0 +1,1 @@
+Evaluating current technical infrastructure and desired/target technical infrastructure & identifying gaps between them

@@ -1,0 +1,1 @@
+A set of [[process]]es, [[Procedures]] and controls designed to collect, record, classify, summarize and report data in an organized and systematic manner. 

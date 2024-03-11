@@ -1,0 +1,1 @@
+A cloud-hosted tool used to collect search and monitor log data. Commonly used for hybrid or cloud only environments.

@@ -1,0 +1,1 @@
+If the same key is used several times (ciphertexts encrypted with the same key), XORing these together will eliminate the keystream entirely, leaving you with the XOR of the original plaintexts. 

@@ -1,0 +1,1 @@
+Embedding malicious code inside of an image file that is executed on image open (e.g. [[SVG (Scalable Vector Graphic)]]). 

@@ -1,0 +1,2 @@
+- Track applicable litigation by following new and changing security legislation and regulations and provide legal advice to the organization
+- help address loss of secured data, legal penalties, and regulatory fines

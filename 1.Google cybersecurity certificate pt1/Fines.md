@@ -1,0 +1,1 @@
+Monetary penalties imposed by regulatory bodies for non-compliance with laws and regulations

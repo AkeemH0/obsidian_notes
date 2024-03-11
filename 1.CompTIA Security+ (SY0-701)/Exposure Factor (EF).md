@@ -1,0 +1,2 @@
+- Percentage of asset value loss when negative incident occurs
+- Used systematically to prioritize inputting certain security measures based on potential cost e.g. server downtime to patch a vulnerability

@@ -1,0 +1,1 @@
+The connection is automatically secured with [[SSL (Secure Sockets Layer)]]/[[TLS (Transport Layer Security)]]encryption from the beginning. The server Listens on a dedicated port (990) for encrypted connections

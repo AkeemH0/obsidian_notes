@@ -1,0 +1,4 @@
+- A software and operating system update that addresses security vulnerabilities within a program or product.
+- Usually contain bug fixes that address common security vulnerabilities and exposures
+- Applications should always be kept up to date in-case any crucial security updates come out
+- The newly updated [[OS (operating system)]] should be added to the [[baseline configuration (baseline image)]]

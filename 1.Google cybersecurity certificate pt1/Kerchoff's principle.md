@@ -1,0 +1,3 @@
+- cryptography should be designed in such as way that all details of an algorithm - except for the private key- should be knowable without sacrificing its security. 
+- (a cryptographic system should not be considered secure if it requires secrecy around how it works ([[Caesar cipher]]))
+- For example, you can access all details about how [[AES (Advanced Encryption Standard)]] works online and yet it is still unbreakable

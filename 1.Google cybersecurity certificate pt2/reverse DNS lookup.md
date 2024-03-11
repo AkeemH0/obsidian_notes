@@ -1,0 +1,2 @@
+A query that looks for the domain name associated with an IP address.
+If you perform a reverse DNS lookup on an attacker's system, they might be alerted that you are investigating them through their DNS records.

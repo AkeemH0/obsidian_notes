@@ -1,0 +1,1 @@
+Data is read as it passes by the device (data doesn't pass through device) by breaking into the physical connection 

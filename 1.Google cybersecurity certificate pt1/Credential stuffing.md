@@ -1,0 +1,2 @@
+using stolen login credentials from pervious data breaches to access user accounts at another organization (usually throughout the use of advanced bots to login to different websites).
+A specialised type of credential stuffing is called [[pass the hash]]

@@ -1,0 +1,1 @@
+A type of [[DoS (Denial of service)]] attack caused when a hacker pings a system by sending it an oversized [[ICMP (Internet Control Message protocol)]] packet that is bigger than 64KB (the maximum size for an ICMP packet). This will overload the system and cause it to crash.

@@ -1,0 +1,2 @@
+Similar to [[Principle of least privilege (POPL)]]but is about information restriction.
+ Information is only distributed when required to carry out legitimate tasks so it involves the restriction of knowledge rather than the restriction of access in order to reduce the risk of information leaks or unauthorized disclosures (announcements/declarations )

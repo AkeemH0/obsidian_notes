@@ -1,0 +1,1 @@
+A column in a table that is a primary key in another table

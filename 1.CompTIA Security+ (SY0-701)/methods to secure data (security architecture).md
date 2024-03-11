@@ -1,0 +1,8 @@
+- [[geofencing]]
+- [[Encryption]]
+- [[Hashing]]
+- [[Data masking]]
+- [[Tokenization]]
+- [[Obfuscation]]
+- [[Network segmentation]]
+- [[permission restrictions]]

@@ -1,0 +1,1 @@
+uses a mechanical locking mechanism with push buttons that are numbered and require a person to enter the correct combination in order to open that door

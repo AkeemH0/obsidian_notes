@@ -1,0 +1,1 @@
+A disgruntled/fired employee that aims to harm their employer by causing a data breach, disrupting services or leaking sensitive information. Also includes hacking entities who you believe have wronged you.

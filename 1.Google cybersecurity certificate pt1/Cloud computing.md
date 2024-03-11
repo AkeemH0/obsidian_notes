@@ -1,0 +1,2 @@
+The practice of using remote server, applications and network services that are hosted on the internet instead of on local physical devices ([[on-premise networks]])
+"An on-demand, massively scalable service, hosted on shared infrastructure, accessible via the internet"

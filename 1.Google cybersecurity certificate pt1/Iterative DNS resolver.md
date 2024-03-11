@@ -1,0 +1,1 @@
+sends queries to a DNS server which may be a [[recursive DNS resolver]] or an [[authoritative DNS server]] and relies on that server to provide the answer or further referrals.

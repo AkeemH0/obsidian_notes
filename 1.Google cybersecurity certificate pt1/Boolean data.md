@@ -1,0 +1,1 @@
+Data that can only be True (1) or False (0)

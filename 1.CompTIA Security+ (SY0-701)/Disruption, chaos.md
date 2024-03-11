@@ -1,0 +1,1 @@
+[[Unauthorized hackers]]. Unauthorized hackers, engage in malicious activities for the thrill of it, to challenge their skills or simply to cause harm e.g. creating and spreading malware or launching sophisticated cyber attacks against critical infrastructure in a populated city

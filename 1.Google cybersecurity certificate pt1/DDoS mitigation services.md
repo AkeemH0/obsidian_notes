@@ -1,0 +1,1 @@
+Consider using DDoS mitigation services from third-party providers, which specialize in detecting and mitigating various types of DDoS attacks, including amplification attacks.

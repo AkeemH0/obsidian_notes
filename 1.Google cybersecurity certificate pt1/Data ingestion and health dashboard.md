@@ -1,0 +1,1 @@
+shows the number of event logs, log sources, and success rates of data being processed. Used to ensure that log sources are correctly configured and that logs are received without error. This helps to ensure that log related issues are addressed so that the security team has access to the log data they need.

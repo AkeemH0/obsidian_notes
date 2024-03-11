@@ -1,0 +1,1 @@
+Broadcasts a message to every other device on a network asking whether or not the devices MAC address matches the requested IP address.

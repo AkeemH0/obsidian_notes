@@ -1,0 +1,1 @@
+encrypts data as it exists in memory so that an untrusted process cannot decode the information

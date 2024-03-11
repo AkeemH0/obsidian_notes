@@ -1,0 +1,14 @@
+Control web traffic (outbound & inbound) based on the content data:
+- Sensitive materials
+- NSFW
+- Parental controls
+- malware
+- gambling
+- adult
+- social media
+- educational
+- government
+- legal
+- news
+- phishing
+- political

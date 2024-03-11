@@ -1,0 +1,1 @@
+Source code is accessible to public therefore can be customised and improved to suit a specific organizations requirements. Usually free thus can be distributed to others given that the specified license is respected.

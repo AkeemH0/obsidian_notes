@@ -1,0 +1,1 @@
+Total value of an asset

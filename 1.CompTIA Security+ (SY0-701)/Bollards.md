@@ -1,0 +1,7 @@
+- Prevents access by vehicles
+- Used to keep vehicles away from buildings
+- Channel people through a specific access point & prevent vehicles
+- Identify safety concerns
+- Concrete bollards/barriers/Moats
+- Shield between pedestrians and cars
+- Visual deterrent 

@@ -1,0 +1,1 @@
+completely new versions of hardware or surface that can be purchased

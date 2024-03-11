@@ -1,0 +1,2 @@
+A sophisticated zero-day malware designed to sabotage Iran's nuclear program. Attributed to American & Israeli governments.
+The nuclear centrifuges were a part of an [[Air gap]] network so Stuxnet was designed to infect USB drives so the worm could be transferred to the isolated network

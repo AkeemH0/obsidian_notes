@@ -1,0 +1,1 @@
+The maximum amount of data transfer rate (Upload/download) of a network or internet connection per second.

@@ -1,0 +1,1 @@
+Provides routing device (routers & layer 3 switches) with information about whether the original packet has been fragmented and if there are more fragments in being delivered.

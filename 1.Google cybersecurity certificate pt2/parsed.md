@@ -1,0 +1,1 @@
+The process of extracting specific information or variables from a larger dataset.

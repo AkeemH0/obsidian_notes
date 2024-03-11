@@ -1,0 +1,4 @@
+- CSO Online
+- Krebs on Security
+- Dark reading
+- The Cybersecurity & Infrastructure Security Agency (CISA) mailing list

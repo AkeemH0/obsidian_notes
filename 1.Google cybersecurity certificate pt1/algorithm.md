@@ -1,0 +1,1 @@
+A set of instructions used to solve a problem

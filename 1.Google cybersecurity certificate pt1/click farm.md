@@ -1,0 +1,1 @@
+A form of click fraud where a large group of low-paid workers are hired to click on links or buttons for the click farmer

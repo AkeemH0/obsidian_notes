@@ -1,0 +1,1 @@
+Often achieved throughout [[DDoS (distributed denial of service attack)]]. Leads to financial and reputational damage.

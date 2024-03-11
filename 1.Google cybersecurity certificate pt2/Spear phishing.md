@@ -1,0 +1,1 @@
+A subset of [[email phishing]] in which specific people are purposefully **targeted **such as the accountants of a small business

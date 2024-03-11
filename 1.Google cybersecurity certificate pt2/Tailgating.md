@@ -1,0 +1,1 @@
+when an unauthorized person follows an authorized person into a restricted area without the knowledge/consent of the authorized party. 

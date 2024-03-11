@@ -1,0 +1,4 @@
+- Regular updates
+- User accounts with complex credentials & [[Access control]] 
+- Limit network access ([[NAC (Network Access Control)]])
+- Secure with [[EDR (Endpoint Detection and response)]], [[AV (Antivirus)]] etc.

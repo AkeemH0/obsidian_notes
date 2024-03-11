@@ -1,0 +1,1 @@
+combination of self and cloud hosted, leverages the benefits of the cloud whilst also maintaining physical control over confidential data.

@@ -1,0 +1,7 @@
+- Leaking valuable of confidential information
+- Damaging an organizations reputation
+- Impacting customer retention
+- Costing time and money
+- Financial: Business operations  may be halted or slowed down (e.g. to [[DoS (Denial of service)]]) resulting in reduced company operation time, decreasing revenue generation. If a malicious actor gains access to [[PII (Personally identifiable information)]] or [[SPII (Sensitive Personally identifiable information)]] the company may face heavy settlement costs if customers seek legal action.
+- Reputation: Negative impact on organization reputation leading to loss of customers due to lack of trust
+- Public safety: If an attack occurs on a government network the safety and welfare of citizens may be impacted. Defence agencies across the globe are heavily investing in combating cyber warfare tactics. e.g. if a malicious actor gained access to a power grid, a public water system or even military defence communication system, the public could face harm due to a network intrusion attack.

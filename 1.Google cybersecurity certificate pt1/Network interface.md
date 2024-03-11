@@ -1,0 +1,1 @@
+A hardware (physical) or software (virtual) component that enables a device to connect and communicate with computer a network. It acts as an intermediary between the device and the network. A [[Network interface card (NIC)]] is a physical hardware component responsible for connecting a device to a network.

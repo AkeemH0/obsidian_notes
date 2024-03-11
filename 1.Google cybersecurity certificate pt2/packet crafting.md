@@ -1,0 +1,1 @@
+Creating a packet according to various requirements to carry out attacks and to exploit vulnerabilities in a network. It's mainly used to penetrate into a network's structure.

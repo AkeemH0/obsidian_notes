@@ -1,0 +1,1 @@
+Using backup power sources to ensure that an organizations systems remain operational during periods of power disruption or outages within your local service area

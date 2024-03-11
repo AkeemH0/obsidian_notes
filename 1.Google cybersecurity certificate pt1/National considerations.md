@@ -1,0 +1,1 @@
+Laws that apply to a nation

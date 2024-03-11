@@ -1,0 +1,2 @@
+A device that combines multiple data or communication channels into a single channel, typically used to manage and optimize network traffic
+*Like a busy traffic intersection where different lanes (communication channels) merge into a single road (single communication channel).*

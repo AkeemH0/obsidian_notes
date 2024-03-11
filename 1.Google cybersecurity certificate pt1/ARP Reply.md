@@ -1,0 +1,1 @@
+Acknowledges/verifies that a devices MAC address matches the requested IP address.

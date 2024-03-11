@@ -1,0 +1,1 @@
+A secure method of electronic funds transfer between entities, performed throughout a banking system

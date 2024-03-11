@@ -1,0 +1,1 @@
+For IPv4 packets that are larger than 65,535 , the packets are divided or fragmented into smaller IP packets. Identification provides a unique identifier for all fragments of the original IP packet so that they can be reassembled in-order once they reach their destination.

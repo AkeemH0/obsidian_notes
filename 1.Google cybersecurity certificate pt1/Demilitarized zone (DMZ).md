@@ -1,0 +1,1 @@
+ contains public facing services that can access the internet e.g.  [[web server]]s, [[proxy server]]s that host websites for the public & [[DNS server]]s that provide [[IP (Internet protocol)]] addresses for internet users, also includes email and file servers that handle external communications.

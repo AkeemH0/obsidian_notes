@@ -1,0 +1,5 @@
+- Applications in a [[sandbox]] cannot access unallocated resources
+- Commonly used during development
+- Used to analyse malware and make correlating to security configurations
+- Used to test changes [[Change management]] e.g. new software
+- Used in virtual machines, mobile devices (use applications that use data on the phone however they cannot access unallocated resources)

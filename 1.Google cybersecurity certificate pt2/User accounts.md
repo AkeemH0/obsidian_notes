@@ -1,0 +1,5 @@
+- Should have a unique account per user (with unique password and email)
+ - Assign permissions in groups
+- [[Principle of least privilege (POPL)]]
+- Account [[audit]]
+- Account disablement

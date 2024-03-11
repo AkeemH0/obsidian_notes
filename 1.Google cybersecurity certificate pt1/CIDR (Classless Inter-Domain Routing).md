@@ -1,0 +1,8 @@
+- CIDR is a method for allocating [[subnet mask]]s to IP addresses to create a subnet .
+- Classless addressing replaces classful addressing as classful addressing was depleted due to the inefficiency in address allocation. Classful addressing was rigid and led to IP address wastage. CIDR allows for more efficient use of IP addresses.
+- Classless CIDR addressing expanded the number of available IPv4 addresses
+- It allows for efficient use of address space and simplifies routing.
+- CIDR IP addresses are formatted like IPv4 addresses but have a ''/'' followed by a number at the end of the address, this extra number is called the IP [[network prefix]] e.g. 198.51.100.0/24
+- the 24 indicates that the first 24 bits are dedicated to the network portion ([[network prefix]] is 24 bits long) 
+- CIDR reduces the number of entries in [[routing table]]s improving routing efficiency and provides more available IP addresses within networks.
+- ![[Pasted image 20230918162514.png]]

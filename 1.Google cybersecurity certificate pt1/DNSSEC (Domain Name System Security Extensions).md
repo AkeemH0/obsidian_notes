@@ -1,0 +1,1 @@
+An extension to DNS that adds digital signatures to DNS data to authenticate the origin of DNS data and verify its integrity. It helps prevent [[DNS Spoofing attack]]s

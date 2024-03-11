@@ -1,0 +1,1 @@
+When an attacker/malware exits a VM and gains unauthorized access to the host system.

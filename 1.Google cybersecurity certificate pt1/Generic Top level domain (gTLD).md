@@ -1,0 +1,13 @@
+Tell us the domain name's purpose
+- .com commercial 
+- .org organization
+- .gov government
+- .mil military
+- .int international
+- .net network
+- .edu education
+- .go 
+- .online 
+- .club 
+- .website 
+- .biz

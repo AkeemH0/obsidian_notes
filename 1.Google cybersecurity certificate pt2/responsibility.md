@@ -1,0 +1,1 @@
+All individuals within an organization share an active role in lowering risk and maintaining both physical and virtual security. 

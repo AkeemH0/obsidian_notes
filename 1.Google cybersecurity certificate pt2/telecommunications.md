@@ -1,0 +1,1 @@
+Also known as telecom the exchange of information over significant distances by electronic means and refers to all types of voice, data and video transmission

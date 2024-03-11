@@ -1,0 +1,1 @@
+Conducted at regular intervals 

@@ -1,0 +1,1 @@
+A function that belongs to a specific data type

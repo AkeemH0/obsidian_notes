@@ -1,0 +1,1 @@
+[[symmetric encryption]], [[block cipher]], max 2048 bit key size

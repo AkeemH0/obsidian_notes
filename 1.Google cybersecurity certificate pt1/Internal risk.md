@@ -1,0 +1,1 @@
+A current or former employee, vendor, or trusted partner who poses a security risk

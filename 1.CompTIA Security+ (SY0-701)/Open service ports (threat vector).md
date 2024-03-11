@@ -1,0 +1,3 @@
+- Ports allow for access to a portion of a system
+- Different ports have different vulnerabilities ([[port vulnerabilities]])
+- Misconfiguring applications can create vulnerabilities

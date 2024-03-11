@@ -1,0 +1,2 @@
+Many countries have breach notification laws that require companies and government entities to notify individuals of security breaches involving [[PII (Personally identifiable information)]] or [[SPII (Sensitive Personally identifiable information)]].
+[[GDPR (General Data Protection Regulation)]]

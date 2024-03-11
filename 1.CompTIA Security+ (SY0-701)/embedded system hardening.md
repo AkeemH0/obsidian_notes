@@ -1,0 +1,3 @@
+- Difficult to self upgrade/update due to limited OS access
+- Update regularly when manufacture releases patch
+- Implement Segmented network and firewall

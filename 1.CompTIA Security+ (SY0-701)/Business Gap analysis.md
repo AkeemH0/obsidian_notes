@@ -1,0 +1,1 @@
+Evaluating current business processes and desired/target business processes & identifying gaps between them

@@ -1,0 +1,2 @@
+Isolating a compromised system/device from the rest of the network to protect other systems/devices
+Often implemented via:[[sandbox]]ing, [[VM (Virtual machine)]]s or [[VLAN (Virtual Local Area Network)]]

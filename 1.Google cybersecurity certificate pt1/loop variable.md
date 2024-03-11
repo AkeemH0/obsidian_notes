@@ -1,0 +1,1 @@
+A variable that is used to control the iterations of a loop

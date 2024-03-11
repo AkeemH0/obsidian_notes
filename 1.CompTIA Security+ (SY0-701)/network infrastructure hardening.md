@@ -1,0 +1,4 @@
+- Switches, routers etc.
+- Usually have limited access to Embedded OS since purpose-built devices
+- Change [[Default credentials (threat vector)]]
+- Check with manufacture for security updates

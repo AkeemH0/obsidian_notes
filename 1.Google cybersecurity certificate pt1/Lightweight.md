@@ -1,0 +1,1 @@
+Uses little resources (little memory and processing power)

@@ -1,0 +1,1 @@
+A unique token that identifies a user and their device while accessing the system

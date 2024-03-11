@@ -1,0 +1,2 @@
+hackers who use automated techniques to scan specific network ranges and find vulnerable systems.
+The herder takes control of the [[Botnet]] through a command-and-control sever which communicated via protocols such as Internet relay chat or peer-to-peer networking.

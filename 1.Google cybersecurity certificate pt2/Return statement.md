@@ -1,0 +1,2 @@
+A python statement that executes inside a function and sends information back to the function call.
+When python encounters a return statement it exits the function so no further lines of code after the statement will be ran.

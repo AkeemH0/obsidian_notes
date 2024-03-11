@@ -1,0 +1,1 @@
+similar to dictionary attacks, except they start with a single credential and try it in various systems until a match is found

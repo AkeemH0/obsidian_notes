@@ -1,0 +1,1 @@
+Small invisible graphical elements embedded within webpages to collect data about user behaviour/interactions & track conversions (e.g. clicking certain buttons).

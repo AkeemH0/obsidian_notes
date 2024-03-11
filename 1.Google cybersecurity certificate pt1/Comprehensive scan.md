@@ -1,0 +1,1 @@
+analyse all devices connected to a network. This includes operating systems, user databases and more

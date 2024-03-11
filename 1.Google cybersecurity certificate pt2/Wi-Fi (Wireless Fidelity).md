@@ -1,0 +1,11 @@
+- A set of standards that define communication for wireless local area networking ([[WLAN]]) for devices such as computers, smartphones , tablets and other electronic devices. 
+- Allows multiple devices to connect to the internet and communicate with each other without the need for physical connections.
+
+- Operates on the [[IEEE 802.1X]] standards with various versions denoted by letters (e.g., 802.11a, 802.11b, 802.11g, 802.11n, 802.11ac, 802.11ax, and more). Each version offers different data transfer speeds and frequency bands
+- Use radio waves to transmit data between devices and [[WAP (wireless access point)]]s. These wireless access points act as [[Hub]]s allowing multiple devices to connect to the network 
+- Wi-Fi networks can be secured  using various security protocols, with [[WPA3]] (Wi-Fi Protected Access 3) being one of the most recent and secure standards. Encryption and authentication mechanisms are used to protect the [[Confidentiality]] and [[Integrity]] of data transmitted over Wi-Fi networks.
+- Security considerations include choosing strong encryption methods (such as WPA3 or WPA2), using complex and unique network passwords and periodically updating router firmware to patch security vulnerabilities
+- The choice of frequency band can impact network performance and range e.g. 5GHz  2.4GHz
+- [[WPA (Wi-Fi Protected Access)]]
+- [[WEP (Wired Equivalent Privacy)]]
+- prone to [[On-path attack]] & [[DoS (Denial of service)]]

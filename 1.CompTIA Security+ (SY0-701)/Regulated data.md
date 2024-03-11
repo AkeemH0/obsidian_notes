@@ -1,0 +1,2 @@
+Data managed by a third-party e.g. laws regulations or industry standards.
+e.g. [[PII (Personally identifiable information)]], [[SPII (Sensitive Personally identifiable information)]], [[PHI (protected health information)]] , [[PCI DSS (Payment Card Industry Data Security Standard)]], [[Health Insurance Portability And Accountability (HIPAA)]], [[GDPR (General Data Protection Regulation)]]

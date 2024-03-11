@@ -1,0 +1,3 @@
+- Can be based on specific URL name e.g. youtube.com
+- can be based on category of site content ([[Content filtering]])
+- E.G. Allow, Allow and Alert, Block, Block and Alert

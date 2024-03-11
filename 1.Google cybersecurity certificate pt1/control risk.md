@@ -1,0 +1,1 @@
+Assessment of how a security measure has lost effectiveness over time

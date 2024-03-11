@@ -1,0 +1,1 @@
+Similar to [[MFA (Multi-factor authentication)]] except is only uses two forms of verification

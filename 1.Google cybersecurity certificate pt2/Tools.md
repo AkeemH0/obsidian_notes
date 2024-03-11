@@ -1,0 +1,1 @@
+Software used by malicious actors to achieve their goal e.g. [[brute force attack]] using John the Ripper

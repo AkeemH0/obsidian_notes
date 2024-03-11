@@ -1,0 +1,2 @@
+When applications fail to recognize who should have access and what they're authorized to do it can lead to serious problems.
+E.G. a home [[Wi-Fi (Wireless Fidelity)]] router normally uses a simple login form to keep unwanted guests off the network but if this defence fails an attacker can invade the homeowner's privacy.

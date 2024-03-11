@@ -1,0 +1,1 @@
+Have a layer of protection to confuse a program or person who's trying to analyse it

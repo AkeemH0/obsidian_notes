@@ -1,0 +1,1 @@
+(communicates over UDP/162) can be configured on the monitored device (running an SNMP agent). Can be configured to automatically send out alerts/alarms based on certain network activity/metrics.

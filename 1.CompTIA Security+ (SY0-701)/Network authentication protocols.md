@@ -1,0 +1,6 @@
+[[PAP (Password Authentication Protocol)]]
+[[NTLM (New Technology LAN Manager)]]
+[[Kerberos]]
+[[EAP (Extensible Authentication Protocol)]]
+[[IEEE 802.1X]]
+[[CHAP (Challenge Handshake Authentication Protocol)]]

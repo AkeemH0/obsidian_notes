@@ -1,0 +1,3 @@
+- Attackers try to avoid light (easier to see infiltrators when lit)
+- Non Infrared cameras can see better
+- Specialized design: light angles for facial recognition, avoid shadows ,hiding spots and glare on cameras

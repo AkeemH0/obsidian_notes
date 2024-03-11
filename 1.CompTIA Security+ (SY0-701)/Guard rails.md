@@ -1,0 +1,2 @@
+Automated controls & checks designed to prevent or limit actions in real-time in order to reduce the risk of mistakes/errors that deemed insecure from being carried out .
+e.g. code error flags, AI response limitation

@@ -1,0 +1,3 @@
+The immediate destination ([[IP (Internet protocol)]]) to which a router forwards data packets when determining the path to reach a specific destination network. Helps routers decide where to send data. The next hop is usually decided based on the (longest prefix match/string of characters match) or the lowest metric (if using dynamic routing)
+
+*Next hop is like a signpost on a journey. When a router receives a data packet it looks at where the packet needs to go and checks its [[routing table]] (digital map) to find the next signpost (next hop). Following these signposts the router guides the packet to its final destination ([[IP (Internet protocol)]]).*

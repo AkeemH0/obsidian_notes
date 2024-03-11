@@ -1,0 +1,1 @@
+Loss of a companies license to operate

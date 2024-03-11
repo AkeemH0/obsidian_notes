@@ -1,0 +1,1 @@
+Ensures that if one network path fails, the data can still travel through another route

@@ -1,0 +1,1 @@
+A data structure used to store and reference hash values

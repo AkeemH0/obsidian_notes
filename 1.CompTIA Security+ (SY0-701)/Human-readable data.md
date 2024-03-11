@@ -1,0 +1,1 @@
+Information that can be understood by humans without the need for a machine or software

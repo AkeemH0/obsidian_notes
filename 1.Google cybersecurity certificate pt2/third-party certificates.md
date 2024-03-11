@@ -1,0 +1,1 @@
+[[digital certificate]] issued and signed by a trusted [[CA (Certificate Authority)]]

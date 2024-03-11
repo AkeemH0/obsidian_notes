@@ -1,0 +1,2 @@
+Focused on managing and securing physical networks and wireless communications e.g. not using public Wi-Fi which is prone to threat actor exploitation 
+security protocols such as restricted network access can help protect users and ensure and organizations network remains secure when employees travel or work outside of the main office. 

@@ -1,0 +1,1 @@
+Can streamline data collection, improve accuracy and provide real-time compliance monitoring

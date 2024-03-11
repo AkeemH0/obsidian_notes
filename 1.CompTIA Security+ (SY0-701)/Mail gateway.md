@@ -1,0 +1,5 @@
+- Evaluates source of inbound emails
+- sends to spam or blocks suspicious emails
+- On-site or cloud-based
+- ![[Pasted image 20240213132603.png]]
+- 

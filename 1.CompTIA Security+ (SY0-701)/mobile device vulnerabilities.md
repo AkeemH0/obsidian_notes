@@ -1,0 +1,3 @@
+- [ ] [[side loading]]
+- [ ] [[jailbreaking, rooting]]
+

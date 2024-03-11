@@ -1,0 +1,8 @@
+ - [[CSP (cloud service provider)]]s must take responsibility for security involving the cloud infrastructure including  physical data centres hypervisors and host [[OS (operating system)]]s.
+ - The company using the cloud service must take responsibility for the assets and processes that they store or operate in the cloud.
+ - Its the organizations responsibility to ensure that services are configured properly according to the security requirements of their organization & that they maintain the best security practices for their cloud services
+ - Clients are responsible for securing anything that is directly within their control:
+   - Identity and access management
+   - Resource configuration
+   - Data handling
+- The amount of responsibility that is delegated to a CSP varies depending on the service being used (SaaS/PaaS/IaaS).

@@ -1,0 +1,2 @@
+**Definition:** 
+ A network security standard that allows users to easily secure a wireless home network, typically by using a PIN or a button press to establish a secure connection between a router and wireless devices.

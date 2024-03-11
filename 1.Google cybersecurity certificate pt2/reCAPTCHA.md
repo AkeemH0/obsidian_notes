@@ -1,0 +1,1 @@
+a free [[CAPTCHA (Completely Automated Public Turing Test to Tell Computers and Humans Apart)]] service from google that helps protect websites from bots and malicious software.

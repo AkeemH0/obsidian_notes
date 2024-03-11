@@ -1,0 +1,1 @@
+Negative impact on a companies reputation

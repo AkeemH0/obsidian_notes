@@ -1,0 +1,1 @@
+A coding technique that executes [[SQL (Structured Query Language)]] statements before passing them on to the database meaning that the code can be validated before performing the query

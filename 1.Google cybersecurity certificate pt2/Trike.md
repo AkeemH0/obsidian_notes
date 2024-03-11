@@ -1,0 +1,1 @@
+a [[threat modelling]] framework commonly used to focus on security permissions, application use cases, privilege models and other elements that support a secure environment.

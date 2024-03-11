@@ -1,0 +1,1 @@
+Implement rate limiting or throttling on UDP traffic to prevent excessive requests from a single source.

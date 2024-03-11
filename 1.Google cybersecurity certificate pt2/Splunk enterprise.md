@@ -1,0 +1,1 @@
+A self-hosted tool used to retain, analyse and search an organizations log data to provide security information and alerts in real-time.

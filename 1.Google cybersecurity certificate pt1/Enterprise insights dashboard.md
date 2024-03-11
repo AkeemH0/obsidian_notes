@@ -1,0 +1,1 @@
+Highlights recent alerts. Identifies suspicious domain names in logs, known as [[IoC (indicators of compromise)]]. Each result is labeled with a confidence score to indicate the likelihood of a threat. It also provides a severity level that indicates the significance of each threat to the organization.

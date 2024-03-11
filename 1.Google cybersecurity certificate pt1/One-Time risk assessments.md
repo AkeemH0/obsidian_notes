@@ -1,0 +1,1 @@
+Conducted for a specific project/initiative and are not repeated

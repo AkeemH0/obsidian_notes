@@ -1,0 +1,2 @@
+An open standard, decentralized authentication protocol that utilizes [[SSO (Single sign-on)]]
+*temporarily verifies you are the owner of the magic key that unlocks multiple doors without requiring repeat logins*

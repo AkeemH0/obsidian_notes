@@ -1,0 +1,1 @@
+Guidelines used for building plans to help mitigate risk and threats to data and privacy. Involves physical safety as well as virtual e.g. keycards to enter certain rooms.

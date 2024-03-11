@@ -1,0 +1,12 @@
+- [ ] [[Encryption]]
+- [ ] [[EDR (Endpoint Detection and response)]]
+- [ ] [[Host-based firewall]]
+- [ ] [[HIPS (Host-based Intrusion Prevention System)]]
+- [ ] [[disabling ports & services]]
+- [ ] [[Default credentials (threat vector)]]
+- [ ] [[unnecessary software]]
+
+[[Network Hardening]]
+[[OS hardening]]
+[[cloud hardening]]
+[[System hardening]]

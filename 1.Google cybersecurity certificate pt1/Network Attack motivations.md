@@ -1,0 +1,5 @@
+- Financial
+- Personal
+- Political
+- Disgruntled employee
+- Activist who disagrees with company values

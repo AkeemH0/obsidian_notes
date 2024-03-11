@@ -1,0 +1,1 @@
+These are devices that receive power through the Ethernet cable. Examples include [[IP cameras]], [[IP phones]], [[WAP (wireless access point)]] and some network [[Switch]]es.

@@ -1,0 +1,1 @@
+The person interacting with a computer

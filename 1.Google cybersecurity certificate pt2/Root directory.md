@@ -1,0 +1,1 @@
+the highest-level directory in Linux

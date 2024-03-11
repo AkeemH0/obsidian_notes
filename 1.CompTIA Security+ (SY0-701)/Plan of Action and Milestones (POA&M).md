@@ -1,0 +1,1 @@
+The specific measures used to address each vulnerability, allocate resources & setup timelines for each remediation task that is needed

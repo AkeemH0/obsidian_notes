@@ -1,0 +1,6 @@
+- Picture, name, other details
+- Must be worn at all times
+- Electronically logged
+- Use [[RFID (Radio Frequency Identifier)]] or [[NFC (Near Field Communication)]] or Magnetic Strips
+- Access badge usage is logged
+- [[RFID cloning]]

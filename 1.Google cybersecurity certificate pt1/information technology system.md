@@ -1,0 +1,1 @@
+A [[system]] that utilises technology to manage and process information

@@ -1,0 +1,2 @@
+Focused on securing digital and physics assets. It's also related to the storage, maintenance, retention & destruction of data.
+e.g. ensuring SPII is secure when being stored on a computer or transferred over the internet by putting in place certain protective procedures 

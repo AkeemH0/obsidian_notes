@@ -1,0 +1,1 @@
+Identifying the likelihood and potential impact of the risk. Can be [[Qualitative Risk assessment]] or [[Quantitive risk assessment]]

@@ -1,0 +1,1 @@
+A server responsible for handling (storing/sending/receiving) email messages

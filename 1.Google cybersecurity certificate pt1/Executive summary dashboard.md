@@ -1,0 +1,1 @@
+Analyzes and monitors the overall security health of the organization over time. This helps security teams improve security measures that reduce risk. Useful for generating a summary of security incidents and trends.

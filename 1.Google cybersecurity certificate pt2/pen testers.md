@@ -1,0 +1,1 @@
+People who carry out a simulated attack that helps identify vulnerabilities in  systems, networks, websites, applications, and processes by documenting findings in a report that is reviewed by the security team so that they can solve or lessen the vulnerabilities & come up with a plan to reduce impact of potential breaches.

@@ -1,0 +1,2 @@
+Security risks that do not result in the exposure of [[PII (Personally identifiable information)]]
+e.g. employee having one failed login attempt on their account, employee downloading unapproved software onto their work laptop

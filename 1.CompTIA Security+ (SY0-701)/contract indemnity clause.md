@@ -1,0 +1,1 @@
+A contractual agreement where one party agrees to cover the others harm, liability or loss stemming from the contract

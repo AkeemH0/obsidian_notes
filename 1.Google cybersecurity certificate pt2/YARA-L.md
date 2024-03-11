@@ -1,0 +1,1 @@
+A computer language used to create rules for searching through ingested log data

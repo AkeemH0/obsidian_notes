@@ -1,0 +1,1 @@
+A network management process where routers update/adapt their routing tables automatically based on real-time information from neighbouring routers in order to optimize packet route selection.

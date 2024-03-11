@@ -1,0 +1,1 @@
+The process of identifying a potential security incident, triaging it and handling it off to a more experienced team member

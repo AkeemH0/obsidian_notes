@@ -1,0 +1,1 @@
+These target the application layer with a high volume of requests, often mimicking legitimate traffic. Examples include HTTP floods and Slowloris attacks.

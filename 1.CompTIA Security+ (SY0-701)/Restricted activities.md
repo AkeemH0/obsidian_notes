@@ -1,0 +1,1 @@
+Scope of a change defines what components can be changed. Change scope may need be to be expanded during the change window as its impossible to prepare for all possible outcomes. Change management process determines the next steps.

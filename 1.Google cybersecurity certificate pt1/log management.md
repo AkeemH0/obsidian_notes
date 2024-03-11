@@ -1,0 +1,6 @@
+- The process of collecting, storing, analysing and disposing of log data.
+- Only logging useful information to prevent excess logs e.g. not logging SPII.
+- Overlogging increases storage and maintenance costs & increases load on systems which could cause performance issues and affect usability making it time consuming to search for and identify important events.
+- Some organizations are required to retain logs for a set period of time due to regulations. e.g. companies in: Public sector industries, Healthcare industries, Financial services industries
+- Log protection is vital for maintaining log integrity as malicious actors could modify logs in attempts to mislead security teams and hide their activity.
+- Storing logs in a dedicated centralized server instead of on a local machine helps to maintain log integrity since there is a barrier between the attacker and the log location.

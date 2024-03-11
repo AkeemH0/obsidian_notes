@@ -1,0 +1,1 @@
+Software or hardware placed at the perimeter of the network to detect data in transit to prevent unauthorized access and sharing of sensitive data

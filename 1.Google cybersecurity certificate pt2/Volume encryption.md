@@ -1,0 +1,1 @@
+Encrypts a set of  files / directories

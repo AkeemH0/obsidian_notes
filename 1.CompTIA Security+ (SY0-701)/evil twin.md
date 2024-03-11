@@ -1,0 +1,1 @@
+A [[rouge]] Wi-Fi access point, usually impersonating a trusted source, used to perform [[MITM (man-in-the-middle) attack]]s such as [[eavesdropping]] & modifying traffic 

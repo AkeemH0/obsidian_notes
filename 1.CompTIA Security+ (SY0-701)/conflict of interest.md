@@ -1,0 +1,1 @@
+When personal or financial relationships could potentially cloud the judgement of individuals involved in vendor selection (bias)

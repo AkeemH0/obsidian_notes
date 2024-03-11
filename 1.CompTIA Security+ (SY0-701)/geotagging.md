@@ -1,0 +1,1 @@
+Adding location metadata to files and social media posts

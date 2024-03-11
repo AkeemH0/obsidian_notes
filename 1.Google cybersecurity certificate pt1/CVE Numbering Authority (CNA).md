@@ -1,0 +1,1 @@
+An organization that volunteers to analyse and distribute information on eligible CVEs

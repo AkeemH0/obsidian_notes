@@ -1,0 +1,1 @@
+A primary key which uses the contents of several fields in a table to create a unique value for each row
